@@ -13,8 +13,9 @@ p{
 	color:#000;
 	text-align:center;
 }
-img{
+img.jpg {
 	width:30%;
+	height: 10;
 	margin-left: 35%;
 	border-radius: 50%;
 }	
@@ -26,4 +27,5 @@ footer{
 }
 li{
 	list-style: none;
+
 }
